@@ -67,7 +67,7 @@ The core idea of D<sup>2</sup>MoRA is to introduce a diversity-regulated asymmet
 
 ## Method / Framework
 
-![Framework](assets/framework.png)
+![Framework](framework.png)
 
 **Figure 1.** Comparison of MoE-enhanced LoRA: (a) One-to-one pairing with independent experts; (b) One-to-many pairing enabling knowledge sharing; (c) Our D 2 MoRA with asymmetric many-to-many pairing for flexible cross-expert sharing.
 
@@ -171,9 +171,9 @@ sh llama2_7B_D2MoRA_eval.sh
 | LLaMA2-7B | D\<sup\>2\</sup\>MoRA\<sub\>{M=3, N=8, r=8}\</sub\> | **35.8M** | 70.40 | 82.26 | 78.76 | 87.72 | 81.53 | **70.65** | **84.01** | 78.80 | 79.27 |
 | LLaMA2-7B | D\<sup\>2\</sup\>MoRA\<sub\>{M=4, N=3, r=16}\</sub\> | 45.6M | **71.31** | **82.86** | 78.40 | **90.11** | 81.68 | 67.06 | 83.38 | **81.00** | **79.48** |
 
-![Results](assets/res1.png)
+![Results](res1.png)
 
-![Results](assets/res2.png)
+![Results](res2.png)
 
 -----
 
