@@ -22,7 +22,7 @@
 
 - **Paper**: [AAAI Link](https://ojs.aaai.org/index.php/AAAI/article/view/40168)
 - **Code Repository**: [GitHub](https://github.com/iLearn-Lab/AAAI26-D2MoRA)
-- **Hugging Face Model**: [Model](https://huggingface.co/iLearn-Lab/AAAI26-D2MoRA)
+- **Checkpoints**: [Model](https://huggingface.co/iLearn-Lab/AAAI26-D2MoRA)
 
 ---
 
